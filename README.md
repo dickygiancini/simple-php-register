@@ -1,0 +1,1 @@
+This is a simple PHP script for registeration form. No need to install composer
